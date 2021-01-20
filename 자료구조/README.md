@@ -18,3 +18,7 @@
 rear=(rear+1)% Max_size  
 front=(front+1)% Max_size
 * front가 있는자리는 비워두고 front=rear라면 empty rear+1=front라면 full
+
+## 트리
+
+## 그래프
