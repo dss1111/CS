@@ -1,16 +1,13 @@
 # 자료구조
-___
 
 ## 링크드 리스트
 배열과의 비교가 중요
 1. 배열은 연속적인 메모리 공간이므로 검색시 빠르다.
 2. 배열은 크기가 정적이다 링크드 리스트는 크기가 동적
-___
 ## 스택
 * LIFO(Last in first out) 마지막에 삽입된 원소가 먼저 삭제됨  
 * push 
 * pop
-___
 ## 큐
 * FIFO(First in first out) 먼저 삽입된 원소가 먼저 삭제됨
 * front에서 삽입 rear에서 삭제
@@ -25,15 +22,12 @@ front=(front+1)% Max_size
 * front가 있는자리는 비워둔다. 
 front=rear라면 empty   
 rear+1=front라면 full  
-___
 ## 트리
 
 ### 이진탐색트리(Binary Search Tree)
 
 ### 레드블랙트리
-___
 ## 그래프
-___
 ## 해시테이블  
 해시 값에 따라 리스트에 저장하는 방법  
 해시 값이 같은 경우 충돌이 발생한다.
